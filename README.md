@@ -8,7 +8,7 @@ MyWishlist - это пример проекта на Django, с реализов
 ### 1. Клонирование репозитория
 Склонируйте репозиторий на ваш локальный компьютер:
 
-> git clone https://github.com/yourusername/myproject.git
+> git clone https://github.com/Vlad-Am/test_vista/
 > 
 > cd wishlist
 
