@@ -15,6 +15,7 @@ MyWishlist - это пример проекта на Django, с реализов
 ### 2. Создание виртуального окружения
 Создайте и активируйте виртуальное окружение для изоляции зависимостей:
 > python -m venv venv
+> 
 > source venv/bin/activate  # Для Windows: venv\Scripts\activate
 
 ### 3. Установка зависимостей
@@ -28,6 +29,7 @@ MyWishlist - это пример проекта на Django, с реализов
 Создайте и примените миграции для инициализации базы данных:
 
 > python manage.py makemigrations
+> 
 > python manage.py migrate
 
 ### 5. Создание суперпользователя
